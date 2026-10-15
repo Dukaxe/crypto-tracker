@@ -1,0 +1,7 @@
+streamlit>=1.37
+plotly
+pandas
+numpy
+requests
+ccxt
+pytest

@@ -1,0 +1,8 @@
+[
+  {"symbol": "BTC", "kind": "move_pct", "value": 2, "window_min": 60},
+  {"symbol": "ETH", "kind": "move_pct", "value": 3, "window_min": 60},
+  {"symbol": "BTC", "kind": "below", "value": 60000},
+  {"symbol": "BTC", "kind": "above", "value": 100000},
+  {"symbol": "SOL", "kind": "rsi_low", "value": 30},
+  {"symbol": "SOL", "kind": "rsi_high", "value": 70}
+]
